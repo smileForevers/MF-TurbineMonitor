@@ -36,3 +36,8 @@
 
 - [x] 风机零部件的状态绑定
 - [x] 风机偏航角数据绑定
+
+
+## 运行不起来
+nvm 14.21.3 npm install --force
+nvm 21.1.0 npm run dev
